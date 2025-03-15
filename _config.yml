@@ -1,0 +1,6 @@
+title: bmndc's blog
+
+remote_theme: bmndc/no-style-please
+
+plugins:
+  - jekyll-remote-theme
